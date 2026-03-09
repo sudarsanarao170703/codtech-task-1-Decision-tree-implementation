@@ -50,4 +50,4 @@ Build and visualize a **Decision Tree** classifier using Scikit-learn to classif
 ---
 
 ## 👨‍💻 Author
-**Amit Mali** – Machine Learning Intern at CODTECH
+**GONDU SUDARSANA RAO** – Machine Learning Intern at CODTECH
